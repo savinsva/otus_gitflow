@@ -42,8 +42,8 @@
 			<Comment/>
 			<UseStandardCommands>false</UseStandardCommands>
 			<EditType>InDialog</EditType>
-			<DefaultRecordForm/>
-			<DefaultListForm/>
+			<DefaultRecordForm>InformationRegister.СостояниеВходящихПисем.Form.ФормаЗаписи</DefaultRecordForm>
+			<DefaultListForm>InformationRegister.СостояниеВходящихПисем.Form.ФормаСписка</DefaultListForm>
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
 			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
@@ -146,6 +146,8 @@
 					<TypeReductionMode>TransformValues</TypeReductionMode>
 				</Properties>
 			</Dimension>
+			<Form>ФормаЗаписи</Form>
+			<Form>ФормаСписка</Form>
 		</ChildObjects>
 	</InformationRegister>
 </MetaDataObject>
