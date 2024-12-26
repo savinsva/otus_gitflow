@@ -366,6 +366,7 @@
 			<Role>МенеджерПоПродажам</Role>
 			<Role>Продавец</Role>
 			<Role>ПользовательБот</Role>
+			<Role>ЧтениеЦеныТоваров</Role>
 			<CommonTemplate>ДрайверСканераШтрихкодов</CommonTemplate>
 			<CommonTemplate>КомпонентаПечатиШтрихкодовWindows32</CommonTemplate>
 			<CommonTemplate>КомпонентаПечатиШтрихкодовWindows64</CommonTemplate>
@@ -521,6 +522,7 @@
 			<Report>ПрайсЛист</Report>
 			<Report>АнализЗаказов</Report>
 			<Report>ОстаткиТоваровНаСкладахМобильный</Report>
+			<Report>ЦеныТоваров</Report>
 			<DataProcessor>АдминистративныйСервис</DataProcessor>
 			<DataProcessor>ДемонстрацияВозможностейДиаграмм</DataProcessor>
 			<DataProcessor>ЖурналРегистрации</DataProcessor>
